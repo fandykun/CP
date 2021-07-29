@@ -17,5 +17,7 @@ public class java_string_introduction {
         System.out.println(total_length);
         System.out.println(sorted_answer);
         System.out.println(capitalize_answer);
+
+        scan.close();
     }
 }
